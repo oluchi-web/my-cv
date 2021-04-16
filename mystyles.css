@@ -1,0 +1,223 @@
+
+*{
+    margin:0 ;
+    padding: 0;
+
+}
+
+#container{
+   
+    width:700px;
+    height: 1800px;
+    box-shadow: 3px 2px 7px 0px rgba(0,0,0,0.75);
+    overflow: hidden;
+    position:relative;
+   margin: auto;
+   
+}
+main{
+    margin-left: 20px;
+}
+
+header{
+    display:block;
+    text-align: center;
+    
+}
+header i{
+    color:#6d7bfc;
+    position: relative;
+    margin-left: 10px;
+   
+    
+}
+.profile h4{
+    border-style: solid;
+    border-bottom: thick line ;
+    border-color: #98a1f1;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-width: 2px;
+    width: 800px;
+}
+.capability h4{
+    border-style: solid;
+    border-bottom: thick line ;
+    border-color: #98a1f1;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-width: 2px;
+    width: 800px;
+}
+.capability1{
+    display:flex;
+    justify-content: space-around;
+    flex-direction: row;
+    margin-top: 5px;
+    padding-bottom: 10px;
+    
+  
+}
+.experience h4{
+    border-style: solid;
+    border-bottom: thick line ;
+    border-color: #98a1f1;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-width: 2px;
+    width: 800px;
+}
+.experience > p:nth-child(2){
+    font-weight: bold;
+    padding-bottom: 10px;
+    padding-top: 20px;
+}
+ .work{
+    display:block;
+    padding-bottom: 15px;
+    margin-left: 15px;
+
+}
+.experience > p:nth-child(4){
+    font-weight: bold;
+    padding-bottom: 10px;
+    padding-top: 20px;
+}
+.experience > p:nth-child(5){
+    margin-left: 15px;
+}
+.experience > p:nth-child(6){
+    font-weight: bold;
+    padding-bottom: 10px;
+    padding-top: 20px;
+}
+.experience > p:nth-child(7){
+    margin-left: 15px;
+}
+.experience > p:nth-child(8){
+    font-weight: bold;
+    padding-bottom: 10px;
+    padding-top: 20px;
+}
+.experience > p:nth-child(9){
+    margin-left: 15px;
+}
+.education1{
+    border-style: solid;
+    border-bottom: thick line ;
+    border-color: #98a1f1;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-width: 2px;
+    width: 800px;
+    padding-top: 20px; 
+}
+.edu > p:nth-child(2){
+    font-weight: bold;
+    padding-top: 10px;
+    position: absolute;
+    left: 20px;
+}
+.edu > p:nth-child(3){
+    font-weight: bold;
+    position: absolute;
+    right: 250px;
+    margin-top:10px;
+ 
+}
+.edu > p:nth-child(5){
+    font-style: italic;
+    position: relative;
+    left: 105px;
+    margin-top:10px;
+ 
+}
+.edu > p:nth-child(7){
+    font-weight: bold;
+    padding-top: 5px;
+    position: absolute;
+    left: 20px;
+}
+.edu > p:nth-child(8){
+    font-weight: bold;
+    position: relative;
+    left: 105px;
+    margin-top:5px;
+    padding-bottom: 0;
+ 
+}
+.edu > p:nth-child(10){
+    font-style: italic;
+    position: relative;
+    left: 105px;
+    padding-bottom: 20px;
+ 
+}
+.project h4{
+    border-style: solid;
+    border-bottom: thick line ;
+    border-color: #98a1f1;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-width: 2px;
+    width: 800px;
+    
+}
+.project > p:nth-child(2){
+    
+    padding-bottom: 20px;
+    font-weight: bold;
+    padding-top: 5px;
+    position: absolute;
+    left: 20px;
+}
+.project > p:nth-child(3){
+    
+    position: relative;
+    left: 105px;
+    padding-bottom: 20px;
+ 
+}
+.skills h4{
+    border-style: solid;
+    border-bottom: thick line ;
+    border-color: #98a1f1;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-width: 2px;
+    width: 800px;
+}
+.skills > p:nth-child(2){
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
+.intrests h4{
+    border-style: solid;
+    border-bottom: thick line ;
+    border-color: #98a1f1;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-width: 2px;
+    width: 800px;
+}
+.intrests > p:nth-child(2){
+    padding-top: 5px;
+    padding-bottom: 20px;
+}
+.reference h4{
+    border-style: solid;
+    border-bottom: thick line ;
+    border-color: #98a1f1;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-width: 2px;
+    width: 800px;
+}
